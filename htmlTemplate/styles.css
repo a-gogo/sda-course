@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(162, 230, 162);
+  }
+
+  h1 {
+    background-color: green;
+  }
+
+  th, tr, td {
+    border: 1px solid black;
+    padding: 5px;
+
+  }
+
+  img {
+    width: 200px;
+    height: 200px;
+  }

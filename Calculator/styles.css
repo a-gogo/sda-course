@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+
+
+}
+.calculator{
+    background: fixed;
+    padding: 20px;
+    border-radius:10px;
+
+
+
+}
+
+.h2{
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+input, select, button{
+    width: 100%;
+    padding: 10px;
+    margin:10px ;
+    border:1px solid rgb(226, 217, 217); 
+    border-radius: 5px; 
+}
+
